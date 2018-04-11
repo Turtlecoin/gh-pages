@@ -20,7 +20,7 @@ Algorithm      : [CryptoNote](http://cryptonote.org)
                  -Enhanced Privacy
                  -Elastic Blocks
                  -Fair Mining
-Time           : 30 second targey block time - made by and for miners.  
+Time           : 30 second target block time - made by and for miners.  
 Econ           : Two decimal places like USD  
 Supply Cap     : Plenty.  
 Address Prefix : "TRTL".   
